@@ -43,7 +43,9 @@ function TrainingClass(cookieData){
 		//On a mobile device a user action is required to play a sound.
 		//So we play the sound after the user pressed "Start training"
 		//and so we are able to call .play() whenever we need it
-		document.getElementById('beep').play();
+		if(this.cookie.playAudio === true){
+			document.getElementById('beep').play();
+		}
 		
 		$('#'+this.cookie.targets+'-targets').show();
 		$('#startTraining').hide();
