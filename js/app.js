@@ -5,7 +5,7 @@ $(document).ready(function(){
 	
 	
 	var cookieAsString = Cookies.get('TableSoccerSettings');
-	//var cookieData = Cookies.getJSON('TableSoccerSettings');
+	var cookieData = Cookies.getJSON('TableSoccerSettings');
 
 	var training = new TrainingClass(cookieData);
 	
