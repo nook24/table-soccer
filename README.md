@@ -6,6 +6,7 @@ At the moment the page is made for iPhone 5s. I don't know how it behaves on oth
 
 ## How it works
 First of all you need to setup how you want to train.
+
 ![setup the webapp](https://nook24.eu/img/table-soccer-settings.png)
 
 In the next step, flip your device and start start training. Shoot at the goal, if you hear the beep sound.
