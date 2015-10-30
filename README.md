@@ -10,6 +10,7 @@ First of all you need to setup how you want to train.
 ![setup the webapp](https://nook24.eu/img/table-soccer-settings.png)
 
 In the next step, flip your device and start training. Shoot at the goal and the marked position, if you hear the beep sound.
+
 ![start training](https://nook24.eu/img/table-soccer-training.png)
 
 ## Requirements
